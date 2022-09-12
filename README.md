@@ -1,11 +1,11 @@
-# OVERVIEW OF THE ANALYSIS:-
+## OVERVIEW OF THE ANALYSIS:-
 
 The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
-# RESULTS:-
-## For this purpose we have created 7 visualizations, which are as follows along with their descriptions.
-* Checkout time for users
-This has the graph, which shows the time that bikes are checked out for all riders.
+## RESULTS:-
+### For this purpose we have created 7 visualizations, which are as follows along with their descriptions.
+* Checkout time for users :
+  This has the graph, which shows the time that bikes are checked out for all riders.
 
 * Checkout time by gender
 This has similar graph, which shows the time the bikes are checked out by all genders.
@@ -26,6 +26,6 @@ This visualization shows people born in which year has utilized the bike rides, 
 This graph shows which station has been used the most as a starting point.
 
 
-# SUMMARY:-
+## SUMMARY:-
 Most of the bikes are used for 5 minutes, mostly by males, which falls under the usertype subscriber.The busiest time for bike ride is Thursday, between 5pm-7pm.Males who are born in 1990 takes the most bikes, while the females born in 1969 are prominent users of bike share program.
 Pershing Square North is the station which is used as the starting point for most of the bike-sharers, with the count of 16,564.
