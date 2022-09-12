@@ -1,29 +1,28 @@
 OVERVIEW OF THE ANALYSIS:-
 
-The purpose of the analysis is well defined. (5 pt)
- The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
+The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 RESULTS:-
 For this purpose we have created 7 visualizations, which are as follows along with their descriptions.
-	1. Checkout time for users
+	#1. Checkout time for users
 	This has the graph, which shows the time that bikes are checked out for all riders.
 
-	2. Checkout time by gender
+	#2. Checkout time by gender
 	This has similar graph, which shows the time the bikes are checked out by all genders.
 
-	3. Trips by Weekday for Each Hour
+	#3. Trips by Weekday for Each Hour
 	This is a heatmap visualizaion, where the number of bike trips by weekday for each hour of the day, is shown   	as a heatmap.
 
-	4. Trips by Gender (Weekday per Hour)
+	#4. Trips by Gender (Weekday per Hour)
 	In this visualization, we have the number of bike trips by gender for each hour of each day of the week as a 	heatmap.
 
-	5. User Trips by Gender by Weekday
+	#5. User Trips by Gender by Weekday
 	This visualization, shows the number of bike trips broken down by gender, for each day of the week, by each 	usertype (customer, subscriber), as a heatmap.
 
-	6. Trips by birthyear
+	#6. Trips by birthyear
 	This visualization shows people born in which year has utilized the bike rides, by gender.
 
-	7. Start station by name
+	#7. Start station by name
 	This graph shows which station has been used the most as a starting point.
 
 
