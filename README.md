@@ -12,6 +12,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 * Checkout time by gender :
 This has similar graph, which shows the time the bikes are checked out by all genders.
 [Link to Tableau](https://public.tableau.com/app/profile/reshma.k.skronek/viz/TableauChallenge_16629354329700/Checkouttimebygender?publish=yes)
+![Chart](./checkout_time_gender_hour.png)
 
 * Trips by Weekday for Each Hour :
 This is a heatmap visualizaion, where the number of bike trips by weekday for each hour of the day, is shown as a heatmap.
@@ -20,10 +21,12 @@ This is a heatmap visualizaion, where the number of bike trips by weekday for ea
 * Trips by Gender (Weekday per Hour) :
 In this visualization, we have the number of bike trips by gender for each hour of each day of the week as a heatmap.
 [Link to Tableau](https://public.tableau.com/app/profile/reshma.k.skronek/viz/TripsByGenderWeekdayhr/TripsbyGenderWeekdayhr?publish=yes)
+![Chart](./heatmap_trips_gender_hour.png)
 
 * User Trips by Gender by Weekday :
 This visualization, shows the number of bike trips broken down by gender, for each day of the week, by each usertype (customer, subscriber), as a heatmap.
 [Link to Tableau](https://public.tableau.com/app/profile/reshma.k.skronek/viz/TripsByUserGenderEachDayOfWeek/UserTripbyGenderbyWeekday?publish=yes)
+![Chart](./heatmap_trip_usr_gender_eachweekday.png)
 
 * Trips by birthyear :
 This visualization shows people born in which year has utilized the bike rides, by gender.
