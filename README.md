@@ -8,6 +8,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 * Checkout time for users :
  This has the graph, which shows the time that bikes are checked out for all riders.
 [Link to Tableau](https://public.tableau.com/app/profile/reshma.k.skronek/viz/CheckoutTimeUsers/Checkouttimeforusers?publish=yes)
+![Chart](./checkout_time_user.png)
 
 * Checkout time by gender :
 This has similar graph, which shows the time the bikes are checked out by all genders.
@@ -31,10 +32,12 @@ This visualization, shows the number of bike trips broken down by gender, for ea
 * Trips by birthyear :
 This visualization shows people born in which year has utilized the bike rides, by gender.
 [Link to Tableau](https://public.tableau.com/app/profile/reshma.k.skronek/viz/TripsByBirthyear/TripsbyBirthyear?publish=yes)
+![Chart](./tripsbybirthyear.png)
 
 * Start station by name :
 This graph shows which station has been used the most as a starting point.
 [Link to Tableau](https://public.tableau.com/app/profile/reshma.k.skronek/viz/StartStationByName/StartStationNameByCount?publish=yes)
+![Chart](./start_staion_by_count.png)
 
 ### SUMMARY:-
 Most of the bikes are used for 5 minutes, mostly by males, which falls under the usertype subscriber.The busiest time for bike ride is Thursday, between 5pm-7pm.Males who are born in 1990 takes the most bikes, while the females born in 1969 are prominent users of bike share program.
